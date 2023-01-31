@@ -1,0 +1,1 @@
+# smart-rink-connect-cdn
